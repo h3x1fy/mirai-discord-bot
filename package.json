@@ -1,7 +1,7 @@
 {
   "name": "mirai",
   "version": "0.0.1",
-  "description": "send mirai attacks using discord.",
+  "description": "send mirai attacks using a discord bot.",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon -r .",
