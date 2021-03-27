@@ -1,9 +1,10 @@
 # Mirai Discord Bot
-### Send mirai attacks using a discord bot.
 
-#### How to use
+Send mirai attacks using a discord bot.
 
-> Create .env file
+### How to use
+
+* **Create .env file**
 
 ```
 BOT_TOKEN=bot_token
@@ -15,24 +16,23 @@ BOT_CHANNEL_LOGS=logs_channel_id
 BOT_CHANNEL_PREMIUM=premium_channel_id
 ```
 
+* **Edit .env with ur config**
 
-> Edit .env with ur config
+* **Add ur mirai in db.json**
 
-> Add ur mirai in db.json
+* **to install all dependencies (npm i)**
 
-> npm i ~ to install all dependencies.
+* **run this bot (npm start)**
 
-> npm start ~ to run this bot.
+### Commands
 
-#### Commands
+* **attack**
 
-> attack
+* **clear**
 
-> clear
+* **eval**
 
-> eval
+* **help**
 
-> help
-
-> methods
+* **methods**
 
