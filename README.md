@@ -4,15 +4,13 @@ Send mirai attacks using a discord bot.
 
 ### How to use
 
-* **Create .env file**
+* **Create .env file using the sample**
 
-* **Edit .env with ur config**
+* **Add your mirai b0tn3t in db.json**
 
-* **Add ur mirai in db.json**
+* **Install all dependencies (npm i)**
 
-* **to install all dependencies (npm i)**
-
-* **run this bot (npm start)**
+* **run (npm start)**
 
 ### Commands
 
