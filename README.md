@@ -1,6 +1,6 @@
 # Mirai Discord Bot
 
-Send mirai attacks using a discord bot.
+Send mirai attacks w/discord bot.
 
 * **How to use**
     - Create .env file using the sample
